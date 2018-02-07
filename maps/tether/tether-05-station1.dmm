@@ -21613,14 +21613,6 @@
 "JT" = (
 /turf/space,
 /area/syndicate_station/arrivals_dock)
-"Ml" = (
-/obj/fiftyspawner/cloth,
-/turf/simulated/mineral/vacuum,
-/area/mine/explored/upper_level)
-"PK" = (
-/obj/fiftyspawner/durasteel,
-/turf/simulated/mineral/vacuum,
-/area/mine/explored/upper_level)
 
 (1,1,1) = {"
 aa
@@ -32035,7 +32027,7 @@ hM
 ee
 an
 an
-Ml
+an
 an
 an
 an
@@ -32279,7 +32271,7 @@ hN
 ee
 an
 an
-PK
+an
 an
 an
 an
